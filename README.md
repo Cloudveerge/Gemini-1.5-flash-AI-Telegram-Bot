@@ -1,7 +1,6 @@
 # Gemini-1.5-flash-AI-Telegram-Bot
 An intelligent, conversational Telegram bot built on Node.js, leveraging the **Gemini-1.5-flash** generative AI model.
 
-![Gemini Bot Demo](https://wallpapers.com/images/high/cute-matsuri-mizusawa-citrus-anime-vlcrw2cp1ev4h8zy.webp)
 
 ---
 
@@ -13,7 +12,6 @@ An intelligent, conversational Telegram bot built on Node.js, leveraging the **G
 - **Custom Role Configuration**: Defined bot persona for consistent and engaging responses.
 - **Error Handling**: Clear, user-friendly messages in case of issues.
 
-![Gemini Typing Animation](https://wallpapers.com/images/high/cute-matsuri-mizusawa-citrus-anime-vlcrw2cp1ev4h8zy.webp)
 
 ---
 
@@ -58,7 +56,6 @@ node bot.js
 - **/start**: Initiates the bot with a welcome message.
 - **General Chat**: Engage in conversation with Gemini Bot—just type a message, and the bot will respond!
 
-![Bot in Action](https://wallpapers.com/images/high/cute-matsuri-mizusawa-citrus-anime-vlcrw2cp1ev4h8zy.webp)
 
 ---
 
@@ -99,7 +96,6 @@ function formatText(text) {
 > **User**: "What's the weather today?"  
 > **Gemini Bot**: "I'm here to help you find out—currently connecting to the latest data."
 
-![Real-Time Chat Example](https://wallpapers.com/images/high/cute-matsuri-mizusawa-citrus-anime-vlcrw2cp1ev4h8zy.webp)
 
 ---
 
