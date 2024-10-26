@@ -27,8 +27,8 @@ An intelligent, conversational Telegram bot built on Node.js, leveraging the **G
 Clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/yourusername/gemini-bot.git
-cd gemini-bot
+git clone https://github.com/Cloudveerge/Gemini-1.5-flash-AI-Telegram-Bot.git
+cd Gemini-1.5-flash-AI-Telegram-Bot
 npm install
 ```
 
